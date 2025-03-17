@@ -52,7 +52,6 @@ public interface WeatherAnalyzer{
      * Example:
      * double avg =WeatherAnalyzer.avgTemp(data , 7);
      *
-     *
      * @param data list of weather data
      * @param month month number (1-12)
      * @return average temperature
